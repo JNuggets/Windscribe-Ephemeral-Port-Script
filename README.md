@@ -16,12 +16,10 @@ listening port automatically.
 Windscribe and qBittorrnet credentials are required in the following sections, as outlined in the script
 
 Replace username and password with Windscribe credentials in the lines below
-
-user.send_keys('username') - Line 30
-passw.send_keys('password') - Line 35
+* user.send_keys('username') - Line 30
+* passw.send_keys('password') - Line 35
 
 
 Replace https://qbittorrent.example.com with qbittorrents URL (either reverse proxy or localhost url)
 Replace 'username' and 'password' with qbittorrents WEBUI credntials
-
-client = qbittorrentapi.Client(host='https://qbittorrent.example.com', port=443, username='username', password='password') - Line 71
+* client = qbittorrentapi.Client(host='https://qbittorrent.example.com', port=443, username='username', password='password') - Line 71
