@@ -2,7 +2,7 @@
 
 #### Original Credit: https://github.com/Mibo5354, https://gist.github.com/Mibo5354/cf265bc2108edb839e3607d9c9359dfa
 
-This script has been modified from Mibo5454's original, to refresh the Windsribe Ephermeral port and set qBittorents
+This script has been modified from Mibo5454's original to refresh the Windscribe Ephermeral port and set qBittorents
 listening port automatically.
 
 ## Requirements
