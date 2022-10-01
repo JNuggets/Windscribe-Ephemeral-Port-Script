@@ -22,5 +22,5 @@ Replace username and password with Windscribe credentials in the lines below
 
 Replace https://qbittorrent.example.com with qbittorrents URL (either reverse proxy or localhost url)
 
-Replace 'username' and 'password' with qbittorrents WEBUI credntials
+Replace 'username' and 'password' with qbittorrents WEBUI credentials
 * client = qbittorrentapi.Client(host='https://qbittorrent.example.com', port=443, username='username', password='password') - Line 71
