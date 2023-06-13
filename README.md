@@ -5,6 +5,8 @@
 This script has been modified from Mibo5454's original to refresh the Windscribe Ephermeral port and set qBittorrents
 listening port automatically.
 
+Disclaimer: Reports of using the script often can lead to account being temporarily disabled. Reduce usage to the minimum required timeframe
+
 ## Requirements
 
 * Python (Tested on 3.10.7)
